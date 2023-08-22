@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\mhmol\Documents\flutter_dev\flutter_projects\photo_api\photo_api\build\windows\CMakeFiles\42afce00255d87f85461356eca17389e\flutter_windows.dll.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\mhmol\Documents\flutter_dev\flutter_projects\photo_api\photo_api\build\windows\CMakeFiles\0a041a846db996d98bb136c77fa632e3\flutter_assemble.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\mhmol\Documents\flutter_dev\flutter_projects\photo_api\photo_api\windows\flutter\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\mhmol\Documents\flutter_dev\flutter_projects\photo_api\photo_api\build\windows\flutter\CMakeFiles\flutter_assemble" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{36839E69-0834-3FAB-9C2B-E4BD81BE354B}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,10 @@
+^C:\USERS\MHMOL\DOCUMENTS\FLUTTER_DEV\FLUTTER_PROJECTS\PHOTO_API\PHOTO_API\BUILD\WINDOWS\CMAKEFILES\B24BFE0E0B8FA6DDB1CA9F63B028CC91\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -SC:/Users/mhmol/Documents/flutter_dev/flutter_projects/photo_api/photo_api/windows -BC:/Users/mhmol/Documents/flutter_dev/flutter_projects/photo_api/photo_api/build/windows --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/mhmol/Documents/flutter_dev/flutter_projects/photo_api/photo_api/build/windows/photo_api.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

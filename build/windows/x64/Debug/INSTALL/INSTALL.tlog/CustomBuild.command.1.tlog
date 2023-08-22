@@ -1,0 +1,10 @@
+^C:\USERS\MHMOL\DOCUMENTS\FLUTTER_DEV\FLUTTER_PROJECTS\PHOTO_API\PHOTO_API\BUILD\WINDOWS\CMAKEFILES\B24BFE0E0B8FA6DDB1CA9F63B028CC91\INSTALL_FORCE.RULE
+setlocal
+cd .
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
