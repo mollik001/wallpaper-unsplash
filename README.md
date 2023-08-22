@@ -1,16 +1,13 @@
-# photo_api
+# wallpaper-hub
+# Introduction
+This is a cool wallpaper application that I built with Flutter. It's a personal project that brings you a vast collection of stunning wallpapers right at your fingertips! 🌄
 
-A new Flutter project.
+# Features
+Search Any Prompt: Looking for wallpapers of your favorite subjects? No problem! You can search for any prompt, be it "nature," "cityscape," "space," "animals," or anything you like! Get wallpapers that match your interests.
 
-## Getting Started
+Category System: To make your search even easier, I've organized the wallpapers into categories. Simply browse through categories like "Landscapes," "Abstract," "Animals," "Travel," and many more.
 
-This project is a starting point for a Flutter application.
+Unsplash API: Thanks to the power of the Unsplash API, you have access to an endless stream of high-quality and beautiful wallpapers. Enjoy the diverse collection of photographers from all around the world!
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Acknowledgments
+A big thank you to the Unsplash API for providing an incredible source of stunning wallpapers and making this app possible.
